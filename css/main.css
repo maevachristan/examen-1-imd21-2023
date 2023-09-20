@@ -24,7 +24,7 @@ h1 {
 
 .context {
   color: #ffffff;
-  font-family: 'Noto Serif';
+  font-family: 'Noto Serif', serif;
   font-size: 20px;
   font-weight: 300;
   text-align: center;
@@ -36,7 +36,7 @@ h1 {
   background-color: #000000;
   display: flex;
   justify-content: space-around;
-  font-family: 'Noto Serif';
+  font-family: 'Noto Serif', serif;
   font-size: 18px;
   font-weight: 300;
   padding: 20px 42px;
@@ -48,11 +48,117 @@ h1 {
   text-transform: uppercase;
 }
 
+.whats-on, .whats-new {
+  padding: 60px 20px;
+}
+
 h2 {
-  font-family: 'Noto Serif';
+  font-family: 'Noto Serif', serif;
   font-size: 50px;
   font-weight: 300;
   text-align: center;
   text-transform: uppercase;
-  margin: 60px 20px 30px 20px;
+  margin: 0;
+  padding: 0 20px 30px 20px;
 }
+
+.desire-marea, .pump-trans {
+  border: 1px solid;
+  margin-bottom: 20px;
+}
+
+hr {
+  background-color: #d7a1fd;
+  height: 7px;
+  border: none;
+  margin: 0;
+}
+
+.desire-marea p, .pump-trans p{
+  font-family: 'Noto Serif', serif;
+  font-size: 15px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+h3 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.country {
+  margin-bottom: 30px;
+}
+
+.full-programme {
+  background-color: #000000;
+  text-align: center;
+  margin: 30px 97px 60px 97px;
+  padding: 20px 30px;
+}
+
+.full-programme a {
+  color: #d7a1fd;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 800;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.neon-green {
+  background-color: #98fb00;
+  font-family: 'Noto Serif', serif;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+.neon-green p {
+  margin: 0;
+}
+
+.quote {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -1.5px;
+  line-height: 28px;
+  padding-bottom: 20px;
+}
+
+.whats-new {
+  background-color: #f4ede8;
+}
+
+.one-month img, .talking-walls img {
+  border-radius: 20px 20px 0 0;
+}
+
+.one-month, .talking-walls {
+  background-color: #ffffff;
+  font-family: 'Noto Serif', serif;
+  font-size: 15px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.one-month p, .talking-walls p {
+  padding: 0 20px 20px;
+}
+
+span {
+  text-transform: uppercase;
+}
+
+.strong {
+  font-family: 'Nunito Sans', sans-serif;
+  font-style: italic;
+  font-weight: 800;
+}
+
