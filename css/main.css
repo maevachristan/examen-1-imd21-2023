@@ -1,4 +1,9 @@
+html {
+  background-color: #e9e5e2;
+}
+
 body {
+  background-color: #ffffff;
   max-width: 428px;
   margin: auto;
 }
@@ -6,4 +11,48 @@ body {
 img {
   display: block;
   max-width: 100%;
+}
+
+h1 {
+  margin: 0;
+}
+
+.violet {
+  background-color: #d7a1fd;
+  padding: 20px;
+}
+
+.context {
+  color: #ffffff;
+  font-family: 'Noto Serif';
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.menu {
+  background-color: #000000;
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Noto Serif';
+  font-size: 18px;
+  font-weight: 300;
+  padding: 20px 42px;
+}
+
+.menu a {
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Noto Serif';
+  font-size: 50px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 60px 20px 30px 20px;
 }
