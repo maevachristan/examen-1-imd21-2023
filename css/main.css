@@ -104,3 +104,46 @@ h3 {
 .informations p {
   margin: 20px 0 0;
 }
+
+.full-programme {
+  background-color: #000000;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 800;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 30px 77px 60px;
+  padding: 20px 30px;
+}
+
+.full-programme a {
+  color: #d7a1fd;
+  text-decoration: none;
+}
+
+.sentence {
+  background-color: #98fb00;
+  font-family: 'Noto Serif', serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px 0;
+}
+
+.sentence p {
+  margin: 0;
+}
+
+.quote {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -1.5px;
+  line-height: 28px;
+  padding: 0 20px 20px;
+}
