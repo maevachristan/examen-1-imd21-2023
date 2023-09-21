@@ -13,3 +13,53 @@ img {
   max-width: 100%;
 }
 
+.context {
+  background-color: #d7a1fd;
+}
+
+h1 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 20px 20px 10px;
+}
+
+.number {
+  font-family: 'Noto Serif', serif;
+  font-weight: 300;
+}
+
+.context p {
+  color: #ffffff;
+  font-family: 'Noto Serif', serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  background-color: #000000;
+  font-family: 'Noto Serif', serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px 42px;
+}
+
+.menu a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
