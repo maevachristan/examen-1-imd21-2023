@@ -151,7 +151,7 @@ h3 {
 
 .whats-new {
   background-color: #f4ede8;
-  padding: 0 20px;
+  padding: 0 20px 40px;
 }
 
 .whats-new img {
@@ -180,4 +180,28 @@ h3 {
 
 .maj {
   text-transform: uppercase;
+}
+
+.opportunities h2 {
+  background-color: #d7a1fd;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: -2.5px;
+  line-height: 50px;
+  margin: 0;
+  padding: 20px;
+}
+
+.opportunities p {
+  background-color: #98fb00;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -1px;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin: 20px 0;
+  padding: 20px 0 20px 20px;
 }
